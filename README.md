@@ -5,6 +5,17 @@ This is an Ecommerce Website made with React.js Framework.
  Features
 - Fully Responsive
 
+
+Steps to Run Locally
+-> Clone the project
+
+-> Go to the project directory
+->Install dependencies
+  npm install
+  
+->Start the server
+  npm start
+
 ## Tech Stack
 
 * [React](https://reactjs.org/)
